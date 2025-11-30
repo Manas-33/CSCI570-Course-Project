@@ -1,6 +1,5 @@
 """
 Memory Efficient Sequence Alignment - Hirschberg's Algorithm
-Authors: Manas & Sampriti
 CSCI-570 Final Project
 
 Space Complexity: O(m + n) instead of O(m * n)
