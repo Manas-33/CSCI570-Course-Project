@@ -1,7 +1,5 @@
 """
 Memory Efficient Sequence Alignment - Hirschberg's Algorithm
-CSCI-570 Final Project
-
 Space Complexity: O(m + n) instead of O(m * n)
 Uses divide-and-conquer with linear space DP
 """
